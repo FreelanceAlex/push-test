@@ -9,3 +9,6 @@ setting up the Git Remote within the Linux terminal. Whoops!
 I realized I was not yet skilled enough for Arch Linux. So I went back to GNOME. In doing so, I had to re-flash my laptop with a GNOME dist and reconfigure my developer setup.
 
 In any event, the Git Clone work, all files were successfully cloned. We will not test a git commit & push. Fingers crossed.
+## Success
+The test was a success, Git allowed me to clone, add, commit and push. 
+Additionally, there was an error in one of commits, I was able to reset, correct and recommit.
